@@ -1,0 +1,7 @@
+C:\Users\Iva\source\repos\Petlje\Petlje\bin\Debug\Petlje.exe.config
+C:\Users\Iva\source\repos\Petlje\Petlje\bin\Debug\Petlje.exe
+C:\Users\Iva\source\repos\Petlje\Petlje\bin\Debug\Petlje.pdb
+C:\Users\Iva\source\repos\Petlje\Petlje\obj\Debug\Petlje.csproj.AssemblyReference.cache
+C:\Users\Iva\source\repos\Petlje\Petlje\obj\Debug\Petlje.csproj.CoreCompileInputs.cache
+C:\Users\Iva\source\repos\Petlje\Petlje\obj\Debug\Petlje.exe
+C:\Users\Iva\source\repos\Petlje\Petlje\obj\Debug\Petlje.pdb
